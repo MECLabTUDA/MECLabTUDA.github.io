@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "MECLab TUDa - Medical and Environmental Computing"
+title                    : "MECLab TUDa"
 title_separator          : "-"
 name                     : &name "MECLab TU Darmstadt"
 description              : &description "Medical and Environmental Computing Group at TU Darmstadt"
@@ -21,7 +21,7 @@ repository               : "MECLabTUDA/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "MEC_Lab_Logo.png"
   name             : "MECLab"
   pronouns         : # example: "she/her"  
   bio              : "Medical and Environmental Computing"
