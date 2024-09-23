@@ -230,6 +230,10 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # _podcast
+  - scope:
+      path: ""
+      type: pages
   # _team
   - scope:
       path: ""
