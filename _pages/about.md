@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-# Medical and Environmental Computing Lab
-
 MECLab is an independent research group at TU Darmstadt, Germany, focusing on various areas of Medical Image Computing (MIC) and
 Computer-Assisted Interventions (CAI).
 
