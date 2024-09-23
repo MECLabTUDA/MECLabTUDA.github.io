@@ -78,7 +78,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
@@ -211,6 +211,9 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+  team:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -227,6 +230,13 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # _team
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _posts
   - scope:
       path: ""
@@ -235,7 +245,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -253,7 +263,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -262,7 +272,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -271,7 +281,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comment: false
   # _talks
   - scope:
       path: ""
