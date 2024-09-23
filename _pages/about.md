@@ -7,20 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-MECLab is an independent research group at TU Darmstadt, Germany, focusing on various areas of Medical Image Computing (MIC) and
+We are an independent research group at TU Darmstadt, Germany, focusing on various areas of Medical Image Computing (MIC) and
 Computer-Assisted Interventions (CAI).
 
-## Research
+Our research focuses include, but are not limited to:
 
-We devise Machine learning and Image Acquisition, Analysis strategies for applications in Medicine and Environmental Conservation.
-Within Medicine, we focus on both Medical Image Analysis and Computer Assisted Intervention.
-Our research in Medical Image Analysis leads to fully automatic strategies for Computer Aided Diagnosis and Segmentation.
-For Computer Assisted Intervention, we focus on image-driven surgical planning, surgical process modeling and surgical skill analysis.
+* **Low-resource** AI for resource-constrained clinical environments
+* **Continual Learning** to address changes in data distributions
+* **Federated Learning** for privacy-preserving medical AI
+* Medical image processing and navigation in **Computer Assisted Interventions**
+* **Generative Modelling** for surgical images and video
+
 
 ## Teaching
 
 As a research group of the Computer Science department of the Technische Universität Darmstadt we are also involved in teaching and education.
+We teach two classes for Master's students in computer science and related fields, which are Deep Learning for Medical Imaging (DLMI) in winter and Deep Generative Models (DGM) in summer.
 On a regular basis, we organize specific seminars focusing on several topics related to Machine Learning and Medical Computing.
+
 
 ## Education
 
