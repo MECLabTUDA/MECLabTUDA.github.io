@@ -17,5 +17,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
+  - title: "Podcast"
+    url: /podcast/
+
   #- title: "Blog Posts"
   #  url: /year-archive/
