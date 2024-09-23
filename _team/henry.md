@@ -5,8 +5,6 @@ type: "PhD Student"
 permalink: /team/henry
 ---
 
-{% include base_path %}
-
 My research interests include, but are not limited to:
 
 - Navigation and guidance in endovascular surgery (Electromagnetic Tracking, Digital Subtraction Angiography)

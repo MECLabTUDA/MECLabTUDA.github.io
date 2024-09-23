@@ -5,7 +5,6 @@ type: "PhD Student"
 permalink: /team/yannik
 ---
 
-{% include base_path %}
 
 Research topics: Generative Models, Representation Learning, Uncertainty Estimation, Surgical Data Science
 
