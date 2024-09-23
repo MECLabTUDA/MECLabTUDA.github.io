@@ -6,3 +6,7 @@ permalink: /team/niklas
 ---
 
 {% include base_path %}
+
+My PhD focuses on Federated Learning and Continual Learning in the context of medical imaging.
+
+Furthermore, I am working for the RACOON radiology project, where German university hospitals cooperate to gain a deeper understanding for various diseases.
