@@ -5,6 +5,8 @@ type: "Group leader"
 permalink: /team/anirban
 ---
 
+{% include base_path %}
+
 Anirban Mukhopadhyay’s vision is to Reverse Engineer the Doctor’s Mind.
 He leads an independent research group at TU Darmstadt, Germany that develops assistive AI for Image-guided diagnosis and surgery.
 He organizes premier international conferences, challenges and workshops.
