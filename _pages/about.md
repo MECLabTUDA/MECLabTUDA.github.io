@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "MECLab TUDa -- Medical and Environmental Computing Lab @ TU Darmstadt"
+title: "Medical and Environmental Computing Lab @ TU Darmstadt"
 author_profile: true
 redirect_from: 
   - /about/
