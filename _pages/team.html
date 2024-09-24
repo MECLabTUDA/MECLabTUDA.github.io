@@ -9,7 +9,7 @@ author_profile: true
 
 <h2>Group Leaders</h2>
 
-{% assign leaders = site.team where: "type", "Group Leader" %}
+{% assign leaders = site.team | where: "type", "Group Leader" %}
 {% for post in leaders %}
   {% include teammember.html %}
 {% endfor %}
@@ -17,7 +17,7 @@ author_profile: true
 
 <h2>PhD Students</h2>
 
-{% assign phdstudents = site.team where: "type", "PhD Student" %}
+{% assign phdstudents = site.team | where: "type", "PhD Student" %}
 {% for post in phdstudents %}
   {% include teammember.html %}
 {% endfor %}
