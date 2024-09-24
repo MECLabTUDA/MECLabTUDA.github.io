@@ -11,3 +11,4 @@ Oftentimes visual representation of the function of some organs or tissues is pa
 This class teaches the basics of common medical imaging modalities and discusses their strengths and weaknesses.
 It proceeds with several lectures about advanced concepts in deep learning (e.g. federated learning, continual learning) and their applications in the field of medical imaging.
 As this is an *integrated* lecture, students can participate in a voluntary paper presentation and/or programming project to gain practical experience and an exam bonus.
+The lecture takes place in every **winter** term.

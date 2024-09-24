@@ -11,3 +11,4 @@ Furthermore, their ability to synthesize images at unprecedented levels of reali
 This class starts with basic statistical concepts of image generation.
 We proceed with several lectures about contemporary deep learning approaches for image generation, such as Diffusion Models, Neural Cellular Automata, VAEs and GANs.
 As this is an *integrated* lecture, students can participate in a voluntary paper presentation and/or programming project to gain practical experience and an exam bonus.
+The lecture takes place in every **summer** term.
