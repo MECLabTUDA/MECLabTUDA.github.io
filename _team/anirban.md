@@ -1,7 +1,7 @@
 ---
 title: "Anirban Mukhopadhyay"
 collection: team
-type: "Group leader"
+type: "Group Leader"
 permalink: /team/anirban
 ---
 
