@@ -1,7 +1,6 @@
 ---
 permalink: /podcast
 title: "AI-ready Healthcare Podcast"
-author_profile: false
 ---
 
 {% include base_path %}
