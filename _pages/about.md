@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Medical and Environmental Computing Lab @ TU Darmstadt"
+title: "Medical and Environmental Computing Lab"
 author_profile: true
 redirect_from: 
   - /about/
