@@ -6,15 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 feature_row:
-  - image_path: /images/research/medNCA_phone.png
+  - image_path: /research/medNCA_phone.png
     alt: ""
     title: "AI on Minimal Hardware"
     excerpt: #"This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /images/research/diffusion.png
+  - image_path: /research/diffusion.png
     alt: "Generative Modelling for surgical images and video"
     title: "Generative Modelling for surgical images and video"
     excerpt: #"This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /images/research/regulatory.png
+  - image_path: /research/regulatory.png
     alt: "Integration into Regulatory Frameworks"
     title: "Integration into Regulatory Frameworks"
     excerpt: #"This is some sample content that goes here with **Markdown** formatting."
