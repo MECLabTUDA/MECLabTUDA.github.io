@@ -234,6 +234,9 @@ defaults:
   - scope:
       path: ""
       type: pages
+    values:
+      author_profile: true
+      layout: single
   # _team
   - scope:
       path: ""
