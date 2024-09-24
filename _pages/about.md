@@ -33,7 +33,7 @@ Our research focuses include, but are not limited to:
 * Integration of contemporary research into the existing **Regulatory Frameworks**
 
 
-{% include feature_row %}
+<!-- {% include feature_row %} -->
 
 ## Teaching
 
